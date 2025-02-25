@@ -30,8 +30,6 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![RESTful API](https://img.shields.io/badge/-RESTful_API-FF6F61?style=flat-square&logo=rest&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=websocket&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 ![Highcharts](https://img.shields.io/badge/-Highcharts-2C7DA2?style=flat-square&logo=highcharts&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
